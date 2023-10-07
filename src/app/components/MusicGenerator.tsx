@@ -37,7 +37,7 @@ export default function MusicGenerator () {
       // Construct a prompt for the AI model
       const prompt = `Generate lyrics for a ${genre} song with the theme of ${topic}. The mood should be ${mood}, and the style should be ${style}. Include keywords: ${keywords}`;
 
-      const response = await fetch('http://localhost:5000/generateText', {
+      const response = await fetch('https://lyricist-backend-q3wg.onrender.com/generateText', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
