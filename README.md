@@ -2,7 +2,9 @@ This is a AI based lyrics generator which takes a few parameters as inputs and g
 
 Project Screenshots- 
 
-![image](https://github.com/arpittiwari24/Lyricist/assets/100207940/1d2c3fff-0d4e-4e00-9c1f-7abf240f3615)
+![image](https://github.com/arpittiwari24/Lyricist/assets/100207940/49e0fc7c-44f5-49e2-9e49-45bf3e94fa67)
 
-![image](https://github.com/arpittiwari24/Lyricist/assets/100207940/3728d1c4-7a67-401d-9380-85614141639a)
+
+![image](https://github.com/arpittiwari24/Lyricist/assets/100207940/664f341d-6512-488b-b08d-25160b3c5d43)
+
 
