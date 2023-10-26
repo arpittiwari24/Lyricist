@@ -1,4 +1,4 @@
-import SigninButton from "./SignInButton";
+
 
 export default function Navbar() {
     return(
@@ -6,9 +6,6 @@ export default function Navbar() {
   <div className="flex-1">
     <a className=" normal-case text-3xl font-bold">Lyricist</a>
   </div>
-  <div className="flex-none gap-2">
-         <SigninButton />
-        </div>
   </div>
       )
 }
